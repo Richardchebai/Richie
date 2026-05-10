@@ -30,4 +30,4 @@ Bash
 Open the notebook
 Bash
 📬 Contact
-Richie — LinkedIn · Email
+Richie — LinkedIn · Email chebaic25@gmail.com 
