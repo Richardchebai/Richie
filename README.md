@@ -1,21 +1,29 @@
-🛒 Sales Analysis Dashboard
+SALES ANALYSIS DASHBOARD. 
+
 Analyzing retail sales trends and building KPI dashboards to drive business decisions.
-📌 Project Overview
+
+        PROJECT OVERVIEW. 
 This project explores a retail sales dataset to uncover trends, identify top-performing products, and visualize key performance indicators (KPIs) that help business stakeholders make data-driven decisions. The analysis covers sales by region, product category, time period, and customer segment.
-🎯 Objectives
+
+           OBJECTIVES. 
 Identify the best and worst performing product categories
 Track monthly and quarterly revenue trends
 Analyse regional sales performance
-Build an interactive KPI dashboard for business reporting
-🛠️ Tools & Technologies
-�
-�
-�
-�
-�
-📁 Project Structure
-Code
-📊 Dataset Overview
+Build an interactive KPI dashboard for business reporting. 
+
+         TOOLS AND TECHNOLOGIES. 
+PYTHON 
+PANDAS 
+SEABORN 
+POWERBI
+MATPLOTLIB
+    
+PROJECT STRUCTURES. 
+
+
+
+📊 DATASET OVERVIEW 
+
 Raw Data (data/raw/sales_raw.csv)
 45 sales transactions across 2024 with the following columns:
 Column
@@ -61,23 +69,16 @@ Technology products generated the highest revenue, accounting for 38% of total s
 Sales peak in Q4 every year, indicating strong seasonal trends
 The West region consistently outperformed all other regions
 A small group of top 10 customers contributed to 22% of total revenue
-📸 Screenshots
+
 Revenue by Category
-�
+
 Monthly Revenue Trend
-�
+
 Regional Sales Performance
-�
+
 Top Customers by Revenue
-�
-📌 Note: Run the notebook to auto-generate all charts into the visuals/ folder.
-🚀 How to Run
-Clone this repository
-Bash
-Install required libraries
-Bash
-Open the notebook
-Bash
-All charts will be saved automatically to the visuals/ folder.
+
+
+
 📬 Contact
 Richard 0792983387 — LinkedIn https://www.linkedin.com/in/richardkarani · Email richardkarani038@gmail.com 
